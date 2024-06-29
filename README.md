@@ -1,5 +1,5 @@
-# Aplicativo Gooday
-## Curso: UI DESIGN com FIGMA
+## Aplicativo Gooday
+### Curso: UI DESIGN com FIGMA
 
 Desenvolvemos nesse curso com o Figma o **Gooday**: um aplicativo de rede social para pessoas engajadas com uma vida saudável, que reune informações de restaurantes, eventos, grupos e feed de notícias para o público alvo.
 
